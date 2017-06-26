@@ -1,0 +1,31 @@
+form{
+    background-color: whitesmoke;
+    text-align: justify;
+
+}
+
+h2{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+
+il{
+    padding-bottom: 3px;
+}    
+ul{
+    margin-left: 30px;
+    list-style-type: circle;
+    padding-bottom: 30px;
+}
+
+p{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1{
+    text-align: center;
+}
